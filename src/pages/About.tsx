@@ -56,7 +56,7 @@ export function About() {
             <Card className="bg-card border-white/10 overflow-hidden">
               <div className="aspect-square relative overflow-hidden">
                 <img
-                  src="https://scontent-cpt1-1.xx.fbcdn.net/v/t39.30808-6/619613181_1453290976160846_2006901551889606942_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF6ENJCuICdpXeq7RC5YbVivI3cOcpi6eO8jdw5ymLp4ybuLBqpwf9NbgRPC51B1ot_gChNoK1qUJuHe-DFhhEj&_nc_ohc=7iVapY87lEoQ7kNvwEmWCWg&_nc_oc=AdnGv6aHaKWahfOqRTttsgm2-jH5g_vwNVLPrthBZ6_RroDtFm9DnjOp4DatqptCIwg&_nc_zt=23&_nc_ht=scontent-cpt1-1.xx&_nc_gid=kpnRqNjrxW8qOX1r0TT3bA&oh=00_AftuoM1DqYtyPNpTK-nCOmJe1e86GghHZC7D4B4bKL5BiA&oe=698783DB"
+                  src="../images/prophet-shepherd-bushiri.jpg"
                   alt="Prophet Shepherd Bushiri"
                   className="w-full h-full object-cover"
                 />
@@ -78,7 +78,7 @@ export function About() {
             <Card className="bg-card border-white/10 overflow-hidden">
               <div className="aspect-square relative overflow-hidden">
                 <img
-                  src="https://scontent-cpt1-1.xx.fbcdn.net/v/t39.30808-6/618240737_1322424826592113_4575891025914589372_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEqZ3pXFWVPq6A2V0r6NPjpy60fjeQlr5LLrR-N5CWvko3ACBsEtuO5NalgypRkb32NtsYGWScJUwO9gwTs3QOS&_nc_ohc=E3ezOz0DEa0Q7kNvwEqbyHc&_nc_oc=AdndwXUqzuAClKvLCP7kcN4y7wCOWKQOyhVUtRwkmcADAxpJNphX1I0WQzTZ1_p20ms&_nc_zt=23&_nc_ht=scontent-cpt1-1.xx&_nc_gid=1hiPnMPwOErN7OiqH3hAQg&oh=00_AftS4mi44Ea0-GDwXlWpJ7bO3-QdQrpSD5QK_Jv_dY5Bcg&oe=69878A06"
+                  src="../images/apostle-tyson-eliel.jpg"
                   alt="Apostle Tyson Elijah"
                   className="w-full h-full object-cover"
                 />
