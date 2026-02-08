@@ -56,7 +56,7 @@ export function About() {
             <Card className="bg-card border-white/10 overflow-hidden">
               <div className="aspect-square relative overflow-hidden">
                 <img
-                  src="src/images/prophet shepherd bushiri.jpg"
+                  src="/images/prophet shepherd bushiri.jpg"
                   alt="Prophet Shepherd Bushiri"
                   className="w-full h-full object-cover"
                 />
@@ -78,7 +78,7 @@ export function About() {
             <Card className="bg-card border-white/10 overflow-hidden">
               <div className="aspect-square relative overflow-hidden">
                 <img
-                  src="src/images/apostle tyson elijah.jpg"
+                  src="/images/apostle tyson elijah.jpg"
                   alt="Apostle Tyson Elijah"
                   className="w-full h-full object-cover"
                 />
@@ -126,7 +126,7 @@ export function About() {
             </div>
             <div className="relative h-96 rounded-lg overflow-hidden">
               <ImageWithFallback
-                src="src/images/church crowd.jpg"
+                src="/images/church crowd.jpg"
                 className="w-full h-full object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>

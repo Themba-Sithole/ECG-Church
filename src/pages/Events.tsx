@@ -13,7 +13,7 @@ export function Events() {
       location: 'ECG Cape Town Main ',
       description: 'A powerful two-day youth festival featuring dynamic worship, prophetic ministry, and exciting activities designed to ignite young hearts for Jesus.',
       category: 'Youth',
-      image: 'src/images/events/627906075_1369594105212129_7300139840733100547_n.jpg',
+      image: '/images/events/627906075_1369594105212129_7300139840733100547_n.jpg',
     },
     {
       title: 'Women on Fire Conference',
