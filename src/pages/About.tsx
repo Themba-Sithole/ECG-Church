@@ -56,7 +56,7 @@ export function About() {
             <Card className="bg-card border-white/10 overflow-hidden">
               <div className="aspect-square relative overflow-hidden">
                 <img
-                  src="../images/prophet-shepherd-bushiri.jpg"
+                  src="src/images/prophet shepherd bushiri.jpg"
                   alt="Prophet Shepherd Bushiri"
                   className="w-full h-full object-cover"
                 />
@@ -78,7 +78,7 @@ export function About() {
             <Card className="bg-card border-white/10 overflow-hidden">
               <div className="aspect-square relative overflow-hidden">
                 <img
-                  src="../images/apostle-tyson-eliel.jpg"
+                  src="src/images/apostle tyson elijah.jpg"
                   alt="Apostle Tyson Elijah"
                   className="w-full h-full object-cover"
                 />
@@ -126,8 +126,7 @@ export function About() {
             </div>
             <div className="relative h-96 rounded-lg overflow-hidden">
               <ImageWithFallback
-                src="https://images.unsplash.com/photo-1717201611955-f7e723802d15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkaXZlcnNlJTIwcGVvcGxlJTIwY29tbXVuaXR5JTIwY2h1cmNofGVufDF8fHx8MTc3MDExMTIyMnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
-                alt="Community"
+                src="src/images/church crowd.jpg"
                 className="w-full h-full object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>

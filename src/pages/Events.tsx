@@ -7,13 +7,13 @@ import { Link } from 'react-router';
 export function Events() {
   const upcomingEvents = [
     {
-      title: 'Youth Magnets Festival 2026',
-      date: 'March 15-16, 2026',
-      time: '6:00 PM - 10:00 PM',
-      location: 'ECG Cape Town Main Auditorium',
+      title: 'Fire for Fire Prayer Night',
+      date: 'February 13, 2026',
+      time: '18:00 PM - 06:00 PM',
+      location: 'ECG Cape Town Main ',
       description: 'A powerful two-day youth festival featuring dynamic worship, prophetic ministry, and exciting activities designed to ignite young hearts for Jesus.',
       category: 'Youth',
-      image: 'https://images.unsplash.com/photo-1717201611955-f7e723802d15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkaXZlcnNlJTIwcGVvcGxlJTIwY29tbXVuaXR5JTIwY2h1cmNofGVufDF8fHx8MTc3MDExMTIyMnww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+      image: 'src/images/events/627906075_1369594105212129_7300139840733100547_n.jpg',
     },
     {
       title: 'Women on Fire Conference',

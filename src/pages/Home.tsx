@@ -3,7 +3,7 @@ import { Button } from '../components/ui/button';
 import { Card } from '../components/ui/card';
 import { ImageWithFallback } from '../components/figma/ImageWithFallback';
 import { BroadcastLowerThird } from '../components/BroadcastLowerThird';
-import { Play, Clock, Calendar, MapPin, Users, Heart, Sparkles, Video } from 'lucide-react';
+import { Play, Clock, Calendar, MapPin, Users, Heart, Sparkles } from 'lucide-react';
 
 export function Home() {
   const serviceTimes = [
